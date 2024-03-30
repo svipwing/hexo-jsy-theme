@@ -1,5 +1,6 @@
 ---
 title: 友情链接
+date: 2024-03-10 12:34:00
 ---
 
 <a href="https://baidu.com">
